@@ -7,14 +7,9 @@ My name is Diana Kung'u a Data Analyst.
 ## ✉️ Find me on:
 
  <a href="https://www.linkedin.com/in/dianakungu/" target="_blank" rel="noopener noreferrer"> <img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" alt="Python" height="60" style="vertical-align:top; margin:4px"> </a>
- <a href="https://twitter.com/d_kungu"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP9FYJYNSMJYQCYwZRsYaAQ1Tz1VsLwUS5fw&usqp=CAU" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://twitter.com/d_kungu"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMUZpSqWDzo2aBAFN3lDM1FCsQyY302dBkcg&usqp=CAU" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-
 <br />
-
-![Line](/Assets/Line.png)
-<img src="https://github-readme-stats.vercel.app/api?username=diana-kungu&show_icons=true&theme=tokyonight" />
-
 ![Line](/Assets/Line.png)
 
 ## 🧰 Languages and Tools:
@@ -22,6 +17,11 @@ My name is Diana Kung'u a Data Analyst.
 <img src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/06/tableau-integration-logo.png?fit=376%2C376&amp;ssl=1" alt="tableau" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
+<img src="https://github-readme-stats.vercel.app/api?username=diana-kungu&show_icons=true&theme=tokyonight" />
+
+![Line](/Assets/Line.png)
+
+
 
 ![Line](/Assets/Line.png)
 
