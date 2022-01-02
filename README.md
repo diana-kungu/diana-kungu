@@ -8,11 +8,12 @@ My name is Diana Kung'u a Data Analyst.
 
  <a href="https://www.linkedin.com/in/dianakungu/" target="_blank" rel="noopener noreferrer"> <img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" alt="Python" height="60" style="vertical-align:top; margin:4px"> </a>
  <a href="https://twitter.com/d_kungu"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMUZpSqWDzo2aBAFN3lDM1FCsQyY302dBkcg&usqp=CAU" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
+
 
 ![Line](/Assets/Line.png)
 
 ## 🧰 Languages and Tools:
+</p>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/06/tableau-integration-logo.png?fit=376%2C376&amp;ssl=1" alt="tableau" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
@@ -21,8 +22,10 @@ My name is Diana Kung'u a Data Analyst.
 ![Line](/Assets/Line.png)
 
 ## Dashboards/Data Vizs
- <a href="https://public.tableau.com/app/profile/dianakungu/viz/Aws-ExecutiveDashboard/Overview" target="_blank" rel="noopener noreferrer"> <img src="Assets\Overview.png" alt="Python" height="200" style="vertical-align:top; margin:4px"> </a>
-
+</p>
+ <a href="https://public.tableau.com/app/profile/dianakungu/viz/Aws-ExecutiveDashboard/Overview" target="_blank" rel="noopener noreferrer"> <img src="Assets\Overview.png" alt="Python" height="300" style="vertical-align:top; margin:4px"> </a>
+<a href="https://public.tableau.com/views/WorldLargestSolarPowerPlants/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer"> <img src="Assets\Dashboard 1(6).png" alt="Python" height="300" style="vertical-align:top; margin:4px"> </a>
+</p>
 
 ![Line](/Assets/Line.png)
 
