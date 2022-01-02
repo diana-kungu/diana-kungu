@@ -9,7 +9,7 @@ My name is Diana Kung'u a Data Analyst.
  <a href="https://www.linkedin.com/in/dianakungu/" target="_blank" rel="noopener noreferrer"> <img src="https://download.logo.wine/logo/LinkedIn/LinkedIn-Logo.wine.png" alt="Python" height="60" style="vertical-align:top; margin:4px"> </a>
  <a href="https://twitter.com/d_kungu"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMUZpSqWDzo2aBAFN3lDM1FCsQyY302dBkcg&usqp=CAU" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
-<br />
+
 ![Line](/Assets/Line.png)
 
 ## 🧰 Languages and Tools:
@@ -21,7 +21,7 @@ My name is Diana Kung'u a Data Analyst.
 
 ![Line](/Assets/Line.png)
 
-
+## Dashboards/Data Vizs
 
 ![Line](/Assets/Line.png)
 
