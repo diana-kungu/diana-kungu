@@ -21,13 +21,7 @@ My name is Diana Kung'u a Data Analyst.
 ![Line](/Assets/Line.png)
 
 ## Dashboards/Data Vizs
-<img src="https://public.tableau.com/views/Aws-ExecutiveDashboard/Overview?:language=en-US&:display_count=n&:origin=viz_share_link" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-
-
-![Line](/Assets/Line.png)
-
-## Dashboards/Data Vizs
-
+ <a href="https://public.tableau.com/app/profile/dianakungu/viz/Aws-ExecutiveDashboard/Overview" target="_blank" rel="noopener noreferrer"> <img src="Assets\Overview.png" alt="Python" height="200" style="vertical-align:top; margin:4px"> </a>
 
 
 ![Line](/Assets/Line.png)
