@@ -17,11 +17,18 @@ My name is Diana Kung'u a Data Analyst.
 <img src="https://i2.wp.com/zappysys.com/blog/wp-content/uploads/2018/06/tableau-integration-logo.png?fit=376%2C376&amp;ssl=1" alt="tableau" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=diana-kungu&show_icons=true&theme=tokyonight" />
 
 ![Line](/Assets/Line.png)
 
 ## Dashboards/Data Vizs
+<img src="https://public.tableau.com/views/Aws-ExecutiveDashboard/Overview?:language=en-US&:display_count=n&:origin=viz_share_link" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+
+
+![Line](/Assets/Line.png)
+
+## Dashboards/Data Vizs
+
+
 
 ![Line](/Assets/Line.png)
 
