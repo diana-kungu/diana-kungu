@@ -25,6 +25,7 @@ My name is Diana Kung'u a Data Analyst.
 </p>
  <a href="https://public.tableau.com/app/profile/dianakungu/viz/Aws-ExecutiveDashboard/Overview" target="_blank" rel="noopener noreferrer"> <img src="Assets\Overview.png" alt="Python" height="300" style="vertical-align:top; margin:4px"> </a>
 <a href="https://public.tableau.com/views/WorldLargestSolarPowerPlants/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank" rel="noopener noreferrer"> <img src="Assets\Dashboard 1(6).png" alt="Python" height="300" style="vertical-align:top; margin:4px"> </a>
+ <a href="https://public.tableau.com/app/profile/dianakungu/viz/EVChargingPointsinUK/EVInfrustuctureDashboard" target="_blank" rel="noopener noreferrer"> <img src="Assets\EV Infrustucture Dashboard(1).png" alt="Python" height="300" style="vertical-align:top; margin:4px"> </a>
 </p>
 
 ![Line](/Assets/Line.png)
